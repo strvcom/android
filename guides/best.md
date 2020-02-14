@@ -70,7 +70,7 @@ Resources
 - <a name="OVRDRW"></a>Watch out for overdraws. [#OVRDRW](#OVRDRW)
 - <a name="VCTDRW"></a>Use vector drawables whenever possible. Ask your designer to provide you with SVG files. [#VCTDRW](#VCTDRW)
 - <a name="ADPICO"></a>Use adaptive launcher icons. [#ADPICO](#ADPICO)
-- <a name="IMGRES"></a>Use PNG only for graphics (not vectors) and JPEG for photos to optimize APK size. Consider using an image compression tool. [#IMGRES](#IMGRES)
+- <a name="IMGRES"></a>Use PNG only for graphics (not vectors) and JPEG for photos to optimize APK size. Consider using WebP image format and an image compression tool. [#IMGRES](#IMGRES)
 - <a name="THMSTY"></a>Distinguish between themes and styles. Put them in separate XML files. [#THMSTY](#THMSTY)
 - <a name="THMOVR"></a>Use `ThemeOverlay` theme descendants to apply local changes to themes. [#THMOVR](#THMOVR)
 - <a name="TXTAPR"></a>Use `android:textAppearance` for text style. [#TXTAPR](#TXTAPR)
