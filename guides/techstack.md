@@ -24,14 +24,15 @@ Libraries
 - [Dagger](https://github.com/google/dagger)
 - [Firebase](https://firebase.google.com)
 - [Glide](https://github.com/bumptech/glide)
-- [GSON](https://github.com/google/gson)
 - [Koin](https://github.com/InsertKoinIO/koin)
+- [Kotlin Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html)
 - [LeakCanary](https://github.com/square/leakcanary)
 - [Moshi](https://github.com/square/moshi)
 - [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 - [OkHttp](https://github.com/square/okhttp)
 - [Retrofit](https://github.com/square/retrofit)
 - [RxJava](https://github.com/ReactiveX/RxJava)
+- [SQLDelight](https://github.com/cashapp/sqldelight)
 
 Testing
 -------
@@ -45,18 +46,20 @@ Tools
 
 - [ADB Idea](https://plugins.jetbrains.com/plugin/7380-adb-idea)
 - [Charles](https://www.charlesproxy.com)
+- [detekt](https://github.com/detekt/detekt)
+- [ktlint](https://github.com/pinterest/ktlint)
 - [Postman](https://www.getpostman.com)
+- [scrcpy](https://github.com/Genymobile/scrcpy)
 - [Stetho](http://facebook.github.io/stetho/)
 - [Vysor](http://vysor.io)
 
 CI
 --
 
-- [Bitrise](https://www.bitrise.io)
-- [CircleCI](https://circleci.com)
+- [GitHub Actions](https://github.com/features/actions)
 
 Design
 ------
 
 - [Material Design](https://material.io)
-- [Material Icons](https://material.io/tools/icons)
+- [Material Icons](https://material.io/resources/icons/)
