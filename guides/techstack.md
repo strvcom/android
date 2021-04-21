@@ -21,6 +21,7 @@ Libraries
     - ViewModel
     - WorkManager
 - [Android KTX](https://developer.android.com/kotlin/ktx)
+- [Apollo](https://github.com/apollographql/apollo-android)
 - [Dagger](https://github.com/google/dagger)
 - [Firebase](https://firebase.google.com)
 - [Glide](https://github.com/bumptech/glide)
