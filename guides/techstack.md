@@ -13,32 +13,28 @@ Libraries
 ---------
 
 - [Android Jetpack](https://developer.android.com/jetpack/)
-    - Data Binding
-    - Lifecycles
-    - LiveData
-    - Room
-    - Support Library
-    - ViewModel
-    - WorkManager
-- [Android KTX](https://developer.android.com/kotlin/ktx)
-- [Apollo](https://github.com/apollographql/apollo-android)
+- [Apollo Kotlin](https://github.com/apollographql/apollo-kotlin)
+- [Coil](https://github.com/coil-kt/coil)
 - [Dagger](https://github.com/google/dagger)
+- [ExoPlayer](https://github.com/google/ExoPlayer)
 - [Firebase](https://firebase.google.com)
-- [Glide](https://github.com/bumptech/glide)
+- [Hilt](https://developer.android.com/training/dependency-injection/hilt-android)
+- [Jetpack Compose](https://developer.android.com/jetpack/compose)
 - [Koin](https://github.com/InsertKoinIO/koin)
 - [Kotlin Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html)
 - [LeakCanary](https://github.com/square/leakcanary)
 - [Moshi](https://github.com/square/moshi)
-- [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
+- [MVVM](https://developer.android.com/topic/architecture)
 - [OkHttp](https://github.com/square/okhttp)
 - [Retrofit](https://github.com/square/retrofit)
-- [RxJava](https://github.com/ReactiveX/RxJava)
+- [Room](https://developer.android.com/training/data-storage/room)
 - [SQLDelight](https://github.com/cashapp/sqldelight)
+- [Timber](https://github.com/JakeWharton/timber)
 
 Testing
 -------
 
-- [Espresso](https://developer.android.com/training/testing/espresso/)
+- [Jetpack Compose](https://developer.android.com/jetpack/compose/testing)
 - [JUnit](https://github.com/junit-team/junit4)
 - [Mockito](https://github.com/mockito/mockito)
 
@@ -47,10 +43,10 @@ Tools
 
 - [ADB Idea](https://plugins.jetbrains.com/plugin/7380-adb-idea)
 - [Charles](https://www.charlesproxy.com)
-- [detekt](https://github.com/detekt/detekt)
-- [ktlint](https://github.com/pinterest/ktlint)
+- [Detekt](https://github.com/detekt/detekt)
+- [Ktlint](https://github.com/pinterest/ktlint)
 - [Postman](https://www.getpostman.com)
-- [scrcpy](https://github.com/Genymobile/scrcpy)
+- [Scrcpy](https://github.com/Genymobile/scrcpy)
 - [Stetho](http://facebook.github.io/stetho/)
 - [Vysor](http://vysor.io)
 
